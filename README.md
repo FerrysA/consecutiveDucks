@@ -1,8 +1,7 @@
-# consecutiveDucks (7q)
+# consecutiveDucks (7 kyu)
 ## 14.10.2022
 ## представление числа в виде суммы последовательных чисел(истина если существует)
-##[ссылка на задание]()
-## https://www.codewars.com/kata/5dae2599a8f7d90025d2f15f
+## [ссылка на задание]( https://www.codewars.com/kata/5dae2599a8f7d90025d2f15f)
 ## решение:
 *public static boolean consecutiveDucks(int n) {
 *       long A = n;
